@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /sh/
+Disallow: /test/
+
+Sitemap: http://twccly.com/sitemap.xml
